@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      Hello Pratyush Sinha
+      Hello Pratyush Sinha ..
       <p>This Gihub Action Tut</p>
     </>
   )
